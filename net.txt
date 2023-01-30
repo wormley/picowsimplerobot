@@ -1,0 +1,3 @@
+picohostname-notused
+ssid
+password
